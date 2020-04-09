@@ -8,3 +8,9 @@
     padding-top: 30px;
     padding-bottom: 30px;
 }
+#footer{
+    background-color: #343a40;
+}
+#footer a {
+    color: white;
+}
