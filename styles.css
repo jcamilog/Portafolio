@@ -2,6 +2,9 @@
     color: #97c93e !important;
 }
 
-header p {
-    width: 80px;
+.info{
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
