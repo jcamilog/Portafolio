@@ -8,16 +8,21 @@
     padding-top: 30px;
     padding-bottom: 30px;
 }
-#footer{
-    background-color: #343a40;
-}
-#footer a {
-    color: white;
-}
-
 .projects{
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
 }
 .projects h2{
     color: white;
 }
+
+#footer{
+    background-color: #343a40;
+}
+#footer a {
+    color: white;
+}
+#footer img{
+    width: 50px;
+    padding-bottom: 15px;
+}
+
