@@ -1,6 +1,9 @@
 .text-important{
     color: #97c93e !important;
 }
+#header a:hover{
+    text-decoration: underline;
+}
 
 .info{
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
@@ -26,3 +29,6 @@
     padding-bottom: 15px;
 }
 
+.modal-body p:hover {
+    text-decoration: underline;
+}
