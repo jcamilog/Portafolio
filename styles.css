@@ -14,3 +14,10 @@
 #footer a {
     color: white;
 }
+
+.projects{
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+.projects h2{
+    color: white;
+}
